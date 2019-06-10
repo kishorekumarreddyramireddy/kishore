@@ -1,13 +1,4 @@
-body {
-  position:relative;
-  background:lightpink;
-}
-
-  body:hover {
-    background:lightgreen;
-  }
-
-.isomerTop {
+.mainCube {
   width:196px;
   height:200px;
   border:3px solid black;
@@ -16,10 +7,9 @@ body {
   position:absolute;
   top:42.5px;
   left:211px;
-  background: url(http://www.placecage.com/196/200);
 }
 
-.isomer11 {
+.cube11 {
   background:red;
   height:63px;
   width:61px;
@@ -27,11 +17,11 @@ body {
   float:left;
 }
   
-  .isomer11:hover {
+  .cube11:hover {
     background:none;
   }
 
-.isomer21 {
+.cube21 {
   background:green;
   height:63px;
   width:61.33px;
@@ -39,11 +29,11 @@ body {
   float:left;
 }
   
-  .isomer21:hover {
+  .cube21:hover {
     background:none;
   }
 
-.isomer31 {
+.cube31 {
   background:blue;
   height:63px;
   width:61.33px;
@@ -51,11 +41,11 @@ body {
   float:left;
 }
 
-  .isomer31:hover {
+  .cube31:hover {
     background:none;
   }
 
-.isomer41 {
+.cube41 {
   background:yellow;
   height:63px;
   width:61.33px;
@@ -63,11 +53,11 @@ body {
   float:left;
 }
 
-  .isomer41:hover {
+  .cube41:hover {
     background:none;
   }
 
-.isomer51 {
+.cube51 {
   background:orange;
   height:63px;
   width:61.33px;
@@ -75,11 +65,11 @@ body {
   float:left;
 }
 
-  .isomer51:hover {
+  .cube51:hover {
     background:none;
   }
 
-.isomer61 {
+.cube61 {
   background:white;
   height:63px;
   width:61.33px;
@@ -87,11 +77,11 @@ body {
   float:left;
 }
 
-  .isomer61:hover {
+  .cube61:hover {
     background:none;
   }
 
-.isomerLeft {
+.cubeLeft {
   width:162px;
   height:162px;
   border:2px solid black;
@@ -99,10 +89,9 @@ body {
   position:absolute;
   top: 200px;
   left:157px;
-  background: url(http://www.placecage.com/c/162/162)
 }
 
-.isomerRight {
+.cubeRight {
   width:162px;
   height:162px;
   border:2px solid black;
@@ -110,10 +99,9 @@ body {
   position:absolute;
   top: 200px;
   left:300px;
-  background: url(http://www.placecage.com/162/162)
 }
 
-.isomer1 {
+.cube1 {
   background:red;
   height:50px;
   width:50px;
@@ -121,7 +109,7 @@ body {
   float:left;
 }
 
-  .isomer1:hover {
+  .cube1:hover {
     background:none;
   }
 
@@ -133,11 +121,11 @@ body {
   float:left;
 }
 
-  .isomer2:hover {
+  .cube2:hover {
     background:none;
   }
 
-.isomer3 {
+.cube3 {
   background:blue;
   height:50px;
   width:50px;
@@ -145,11 +133,11 @@ body {
   float:left;
 }
 
-  .isomer3:hover {
+  .cube3:hover {
     background:none;
   }
 
-.isomer4 {
+.cube4 {
   background:yellow;
   height:50px;
   width:50px;
@@ -157,11 +145,11 @@ body {
   float:left;
 }
 
-  .isomer4:hover {
+  .cube:hover {
     background:none;
   }
 
-.isomer5 {
+.cube5 {
   background:white;
   height:50px;
   width:50px;
@@ -169,11 +157,11 @@ body {
   float:left;
 }
 
-  .isomer5:hover {
+  .cube5:hover {
     background:none;
   }
 
-.isomer6 {
+.cube6 {
   background:orange;
   height:50px;
   width:50px;
@@ -181,6 +169,6 @@ body {
   float:left;
 }
 
-  .isomer6:hover {
+  .cube6:hover {
     background:none;
   }
