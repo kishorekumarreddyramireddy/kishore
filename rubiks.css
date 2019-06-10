@@ -1,0 +1,186 @@
+body {
+  position:relative;
+  background:lightpink;
+}
+
+  body:hover {
+    background:lightgreen;
+  }
+
+.isomerTop {
+  width:196px;
+  height:200px;
+  border:3px solid black;
+  border-right:4px solid black;
+  transform: scaleY(0.59) rotate(45deg);
+  position:absolute;
+  top:42.5px;
+  left:211px;
+  background: url(http://www.placecage.com/196/200);
+}
+
+.isomer11 {
+  background:red;
+  height:63px;
+  width:61px;
+  border:black 2px solid;
+  float:left;
+}
+  
+  .isomer11:hover {
+    background:none;
+  }
+
+.isomer21 {
+  background:green;
+  height:63px;
+  width:61.33px;
+  border:black 2px solid;
+  float:left;
+}
+  
+  .isomer21:hover {
+    background:none;
+  }
+
+.isomer31 {
+  background:blue;
+  height:63px;
+  width:61.33px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer31:hover {
+    background:none;
+  }
+
+.isomer41 {
+  background:yellow;
+  height:63px;
+  width:61.33px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer41:hover {
+    background:none;
+  }
+
+.isomer51 {
+  background:orange;
+  height:63px;
+  width:61.33px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer51:hover {
+    background:none;
+  }
+
+.isomer61 {
+  background:white;
+  height:63px;
+  width:61.33px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer61:hover {
+    background:none;
+  }
+
+.isomerLeft {
+  width:162px;
+  height:162px;
+  border:2px solid black;
+  transform: rotate(30deg) skew(30deg);
+  position:absolute;
+  top: 200px;
+  left:157px;
+  background: url(http://www.placecage.com/c/162/162)
+}
+
+.isomerRight {
+  width:162px;
+  height:162px;
+  border:2px solid black;
+  transform: rotate(-30deg) skew(-30deg);
+  position:absolute;
+  top: 200px;
+  left:300px;
+  background: url(http://www.placecage.com/162/162)
+}
+
+.isomer1 {
+  background:red;
+  height:50px;
+  width:50px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer1:hover {
+    background:none;
+  }
+
+.isomer2 {
+  background:green;
+  height:50px;
+  width:50px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer2:hover {
+    background:none;
+  }
+
+.isomer3 {
+  background:blue;
+  height:50px;
+  width:50px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer3:hover {
+    background:none;
+  }
+
+.isomer4 {
+  background:yellow;
+  height:50px;
+  width:50px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer4:hover {
+    background:none;
+  }
+
+.isomer5 {
+  background:white;
+  height:50px;
+  width:50px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer5:hover {
+    background:none;
+  }
+
+.isomer6 {
+  background:orange;
+  height:50px;
+  width:50px;
+  border:black 2px solid;
+  float:left;
+}
+
+  .isomer6:hover {
+    background:none;
+  }
